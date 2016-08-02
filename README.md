@@ -6,4 +6,6 @@ rm -rf .git
 rm README.md
 npm install
 ```
-azure:->webapp->settings->publishing->deployment source
+azure:->webapp->settings->publishing->deployment source  
+######add application settings
+Project ->build
